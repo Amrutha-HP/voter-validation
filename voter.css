@@ -1,0 +1,14 @@
+.img1{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    transition: 0.5s;
+}
+body{
+    background: linear-gradient(to bottom,(216, 216, 71), rgb(107, 107, 3));
+}
+button{
+    width: 80px;
+    height: 30px;
+    background-color: greenyellow;
+    color: black;
+}
